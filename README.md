@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Arsenal 
+### Tech Stack & Arsenal 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -27,7 +27,7 @@
 
 ---
 
-### 🏆 GitHub Stats & Top Languages
+### GitHub Stats & Top Languages
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZylDEV&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
@@ -39,7 +39,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 <p align="center">
   <a href="https://zyldev.online" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00FFFF" alt="Portfolio" />
