@@ -141,8 +141,5 @@
   <img src="https://img.shields.io/badge/Instagram-@mfauzyla-18181B?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
-<br/><br/>
-
-<sub>ZylDEV</sub>
 
 </div>
