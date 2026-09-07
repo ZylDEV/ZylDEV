@@ -1,12 +1,6 @@
 <div align="center">
 
-  <img
-    src="./logo.png"
-    width="150"
-    height="150"
-    style="border-radius: 50%; object-fit: cover;"
-    alt="ZylDEV Profile"
-  />
+  <img src="./logo.png" width="140" alt="ZylDEV Profile" />
 
   <h1>ZylDEV</h1>
 
@@ -17,8 +11,8 @@
   </p>
 
   <p>
-    Building modern digital products with clean architecture,<br/>
-    scalable systems, practical solutions, and thoughtful user experiences.
+    Building modern digital products with scalable architecture,
+    practical solutions, and clean user experiences.
   </p>
 
   <p>
@@ -39,20 +33,9 @@
 
 ## About Me
 
-I'm a **Full-Stack Software Developer** focused on building modern applications across mobile, web, backend, cloud, AI, and interactive 3D experiences.
+Full-Stack Software Developer focused on building modern applications across mobile, web, backend, cloud, AI, and interactive 3D.
 
-I enjoy transforming ideas into functional, scalable, and visually refined products — from responsive interfaces and mobile applications to backend systems, databases, cloud integrations, automation, and AI-assisted development workflows.
-
-### Current Focus
-
-- Mobile Application Development
-- Full-Stack Web Development
-- Backend & REST API Development
-- Cloud & Database Integration
-- AI API Integration
-- Automation & Developer Tools
-- 3D Development with Blender & Unity
-- Product-Oriented Software Development
+I work across the full development process, from interface design and application logic to backend services, databases, integrations, deployment, and automation.
 
 ---
 
@@ -68,184 +51,93 @@ I enjoy transforming ideas into functional, scalable, and visually refined produ
   JavaScript · Python · Dart · Java · PHP · HTML · CSS
 </p>
 
-### Frontend & Web
+### Frontend & Mobile
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,js" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,flutter,dart,androidstudio,java" alt="Frontend and Mobile Stack" />
 </p>
 
 <p align="center">
-  React · React Router · Tailwind CSS · Vite · Framer Motion · Recharts · Swiper
+  React · Tailwind CSS · Vite · Flutter · Dart · Android · Java
 </p>
 
-### Mobile Development
+### Backend & Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,androidstudio" alt="Mobile Stack" />
-</p>
-
-<p align="center">
-  Flutter · Dart · Native Android · Java · Gradle · Material Design
-</p>
-
-### Backend & API
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,firebase,supabase,postgres,mysql,redis" alt="Backend and Database Stack" />
 </p>
 
 <p align="center">
-  FastAPI · Python · Node.js · REST API · Celery · Authentication · API Integration
+  FastAPI · Node.js · Firebase · Supabase · PostgreSQL · MySQL · Redis
 </p>
 
-### Database & Cloud
+### DevOps & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,mysql,redis" alt="Database Stack" />
-</p>
-
-<p align="center">
-  Firebase · Firestore · Firebase Authentication · Firebase Storage · Realtime Database · Supabase · PostgreSQL · MySQL · Redis
-</p>
-
-### DevOps & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github" alt="DevOps Stack" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" alt="DevOps and Tools" />
 </p>
 
 <p align="center">
-  Docker · Docker Compose · Git · GitHub · Deployment Workflow
+  Docker · Git · GitHub · Visual Studio Code · Figma
 </p>
 
-### 3D & Interactive Development
+### AI & 3D
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,blender,python" alt="3D Stack" />
-</p>
-
-<p align="center">
-  Unity · Blender · Blender Python API · 3D Asset Workflow · Animation · Rigging
-</p>
-
-### AI & Automation
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs" alt="AI Stack" />
+  <img src="https://skillicons.dev/icons?i=python,blender,unity" alt="AI and 3D Stack" />
 </p>
 
 <p align="center">
-  AI API Integration · OpenAI-Compatible APIs · LLM Workflows · AI-Assisted Development · Automation
-</p>
-
-### Development Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,github,git,blender,unity" alt="Development Tools" />
-</p>
-
-<p align="center">
-  Visual Studio Code · Android Studio · Figma · GitHub · Git · Blender · Unity
+  AI API Integration · LLM Workflows · Blender · Unity · Blender Python API
 </p>
 
 ---
 
-## Development Areas
+## Development Focus
 
 <table align="center">
   <tr>
-    <td align="center"><b>Mobile</b></td>
+    <td><b>Mobile</b></td>
     <td>Flutter · Dart · Android Java</td>
   </tr>
   <tr>
-    <td align="center"><b>Frontend</b></td>
+    <td><b>Web</b></td>
     <td>React · JavaScript · Tailwind CSS · Vite</td>
   </tr>
   <tr>
-    <td align="center"><b>Backend</b></td>
-    <td>FastAPI · Python · Node.js · Celery</td>
+    <td><b>Backend</b></td>
+    <td>FastAPI · Node.js · REST APIs · Celery</td>
   </tr>
   <tr>
-    <td align="center"><b>Database</b></td>
-    <td>Firebase · PostgreSQL · MySQL · Redis · Supabase</td>
+    <td><b>Database</b></td>
+    <td>Firebase · Supabase · PostgreSQL · MySQL · Redis</td>
   </tr>
   <tr>
-    <td align="center"><b>DevOps</b></td>
-    <td>Docker · Docker Compose · Git · GitHub</td>
+    <td><b>DevOps</b></td>
+    <td>Docker · Git · GitHub</td>
   </tr>
   <tr>
-    <td align="center"><b>3D</b></td>
-    <td>Unity · Blender · Blender Python API</td>
-  </tr>
-  <tr>
-    <td align="center"><b>AI</b></td>
-    <td>LLM APIs · AI Integration · Developer Automation</td>
+    <td><b>AI & 3D</b></td>
+    <td>LLM Integration · Blender · Unity</td>
   </tr>
 </table>
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ZylDEV&show_icons=true&theme=github_dark"
-    height="165"
-    alt="ZylDEV GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZylDEV&layout=compact&theme=github_dark"
-    height="165"
-    alt="ZylDEV Top Languages"
-  />
-</p>
-
----
-
-## Development Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ZylDEV&theme=github-compact"
-    width="100%"
-    alt="ZylDEV GitHub Activity Graph"
-  />
-</p>
-
----
-
-## Profile Summary
+## GitHub Overview
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZylDEV&theme=github_dark"
-    alt="Profile Details"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZylDEV&theme=github_dark"
-    alt="Repositories Per Language"
+    alt="ZylDEV GitHub Overview"
   />
 </p>
 
 ---
 
-## What I Build
-
-<p align="center">
-  Mobile Applications · Modern Web Applications · Backend APIs · Cloud Systems · AI Integrations · Interactive 3D Experiences
-</p>
-
----
-
-## Let's Connect
+## Connect
 
 <div align="center">
-
-Interested in software development, digital products, collaboration, and new technology.
-
-<br/><br/>
 
 <a href="https://zyldev.online">
   <img src="https://img.shields.io/badge/Portfolio-zyldev.online-18181B?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
@@ -261,6 +153,6 @@ Interested in software development, digital products, collaboration, and new tec
 
 <br/><br/>
 
-<sub>Designed & maintained by ZylDEV.</sub>
+<sub>ZylDEV</sub>
 
 </div>
