@@ -11,11 +11,6 @@
   </p>
 
   <p>
-    Building modern digital products with scalable architecture,
-    practical solutions, and clean user experiences.
-  </p>
-
-  <p>
     <a href="https://zyldev.online">
       <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
@@ -36,14 +31,8 @@
 ## About Me
 
 <p>
-  Full-Stack Software Developer focused on building modern applications across
-  mobile, web, backend, cloud, AI, and interactive 3D.
-</p>
-
-<p>
-  I work across the full development process, from interface design and
-  application logic to backend services, databases, integrations,
-  deployment, and automation.
+  I build, learn, break things, and try again.<br/>
+  No labels, no perfect story — just curiosity and freedom to create.
 </p>
 
 </div>
