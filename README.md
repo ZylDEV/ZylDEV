@@ -70,7 +70,7 @@
 </p>
 
 <p>
-  Fuck the image.<br/>
+  FUCK THE IMAGE.<br/>
 </p>
 
 </div>
