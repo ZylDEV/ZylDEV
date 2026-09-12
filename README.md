@@ -66,7 +66,6 @@
 <p>
   Less performance.<br/>
   Less approval-seeking.<br/>
-  More substance.
 </p>
 
 <p>
